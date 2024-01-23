@@ -1,0 +1,46 @@
+body{
+    margin: auto;
+    background-color: rgb(234, 240, 230);
+}
+
+#todo{
+    margin: 0px auto;
+    width: 400px;
+    text-align: center;
+}
+form{
+margin-bottom: 20px;
+}
+
+#task{
+    width: 80%;
+    box-sizing: border-box;
+    margin: 8px 0px;
+    padding: 12px 20px;
+    s
+    
+}
+button{
+    width: 20%;
+    background-color: #2913eb; 
+    border-radius: 20px;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px  0;
+    border: none;
+    cursor: pointer;
+}
+ul {
+    list-style: none;
+}
+li{
+    background-color: #53dd14;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 10px;
+    font-size: 26px;
+}
+.done {
+    text-decoration:line-through;
+}
